@@ -15,22 +15,56 @@ An integrated **Gemini AI chatbot** provides personalized exercise suggestions b
 **Language:** Dart  
 **State Management:** GetX
 
-<img width="403" height="865" alt="472408953-d9192de0-1c51-46ad-a895-5ca807f91d50" src="https://github.com/user-attachments/assets/1fb38ef4-3e26-4d07-b071-cc087b79472b" />
-<img width="401" height="852" alt="472409192-49664109-1db9-430d-aee3-b0e4e02fe14c" src="https://github.com/user-attachments/assets/40a225f6-765b-40d7-b7e2-d256e30ee93c" />
-<img width="400" height="858" alt="472409719-04570713-155a-44a6-abea-496868f991b7" src="https://github.com/user-attachments/assets/6e3ec30c-e0f0-4a37-bf78-a1991b0fb075" />
-<img width="404" height="856" alt="472409353-1a579a1e-0cae-4044-b039-267fb02cb752" src="https://github.com/user-attachments/assets/59b32051-50bf-4d61-a043-789bb88de016" />
-<img width="403" height="859" alt="472409805-e5452030-f0a4-4865-ae64-731696659cb2" src="https://github.com/user-attachments/assets/b88cbb59-2247-49ee-b4a8-d25e0415ea25" />
-<img width="480" height="860" alt="472410271-666ab244-e1bd-48e5-a31a-8084143d3888" src="https://github.com/user-attachments/assets/df8b2851-fabb-449e-99dc-eb8c8b7219d0" />
-<img width="481" height="862" alt="472410296-3e2a30ba-412a-4faa-94e9-fd377bc66e86" src="https://github.com/user-attachments/assets/bb581571-cb8a-4eda-b5ac-752c107442b6" />
-
-<img width="398" height="854" alt="8" src="https://github.com/user-attachments/assets/f07be37e-9a67-4f95-8483-d6de11b4cedd" />
-<img width="340" height="720" alt="9" src="https://github.com/user-attachments/assets/948a944c-a40f-4927-9199-fd72cef68fca" />
-<img width="335" height="720" alt="10" src="https://github.com/user-attachments/assets/7c899094-6043-477f-8af3-e7da450e8903" />
-<img width="340" height="720" alt="11" src="https://github.com/user-attachments/assets/b10c4040-c5ab-42d0-a903-16136438a28c" />
-<img width="335" height="720" alt="12" src="https://github.com/user-attachments/assets/a76d1257-5cbf-4bc5-acd8-fd7b072f55fa" />
 
 
-<img width="400" height="861" alt="472410719-685169a8-0f05-4319-aa8f-32a281c10341" src="https://github.com/user-attachments/assets/fb39dbe1-fc5b-482c-893e-9a1932144176" />
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1fb38ef4-3e26-4d07-b071-cc087b79472b" width="220">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/40a225f6-765b-40d7-b7e2-d256e30ee93c" width="220">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6e3ec30c-e0f0-4a37-bf78-a1991b0fb075" width="220">
+    </td>
+  </tr>
+
+   <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/59b32051-50bf-4d61-a043-789bb88de016" width="220">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b88cbb59-2247-49ee-b4a8-d25e0415ea25" width="220">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/df8b2851-fabb-449e-99dc-eb8c8b7219d0" width="220">
+    </td>
+      <td align="center">
+      <img src="https://github.com/user-attachments/assets/bb581571-cb8a-4eda-b5ac-752c107442b6" width="220">
+    </td>
+  </tr> 
+
+   <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f07be37e-9a67-4f95-8483-d6de11b4cedd" width="220">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/948a944c-a40f-4927-9199-fd72cef68fca" width="220">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7c899094-6043-477f-8af3-e7da450e8903" width="220">
+    </td>
+      <td align="center">
+      <img src="https://github.com/user-attachments/assets/b10c4040-c5ab-42d0-a903-16136438a28c" width="220">
+    </td>
+       <td align="center">
+      <img src="https://github.com/user-attachments/assets/fb39dbe1-fc5b-482c-893e-9a1932144176" width="220">
+    </td>
+  </tr> 
+  
+</table>
 
 ## 🎯 Project Objective
 
